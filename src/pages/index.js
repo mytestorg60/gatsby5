@@ -1,7 +1,7 @@
 import * as React from "react"
 
 const pageStyles = {
-  color: "#CCCCCD",
+  color: "#004192",
   padding: 96,
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
